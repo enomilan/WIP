@@ -78,7 +78,7 @@ const render = () => {
         const root = document.getElementById('root');
         root.appendChild(App)
 
-        // generateQuestionList()
+        generateQuestionList()
 
 }       
 
